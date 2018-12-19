@@ -1,1 +1,1 @@
-# basicresearch
+[![Build Status](https://dev.azure.com/BasicResearch/Basic%20Research/_apis/build/status/daaustin.basicresearch?branchName=master)](https://dev.azure.com/BasicResearch/Basic%20Research/_build/latest?definitionId=1?branchName=master)
